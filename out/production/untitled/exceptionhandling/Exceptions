@@ -1,0 +1,25 @@
+Throwable(superclass of all exceptions & error)
+Exception-(can be handled)
+    -Checked exception
+        -SQL Exception
+        -I/O Exception
+                -file not found
+                -class not found
+
+     -UnChecked Exception
+     -Runtime exception
+                -Arithmatic Excception
+                -Null pointer exception
+                -NumberFormat exception
+                -IndexOutOfBound exception
+                        -ArrayIndexOutOfBound exception
+                        -String indexOutOfBound exception
+
+
+
+
+
+error-(can not be handled)
+        -stack overflow error
+        -out og memory
+        -unknown error
